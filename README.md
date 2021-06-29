@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  :white_check_mark: <a href="https://andreadcsousa.github.io/alura_webpage_emmet/" target="_blank">Veja a página</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <!--:white_check_mark: <a href="https://andreadcsousa.github.io/alura_webpage_emmet/" target="_blank">Veja a página</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;-->
   :white_check_mark: <a href="https://www.alura.com.br/curso-online-guia-estilos-paginas-componentes" target="_blank">Conheça o curso</a>
 </p>
 
