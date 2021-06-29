@@ -27,4 +27,4 @@ E com os recursos > Emmet e Block Element Modifier (BEM):
 
 # :art: Layout
 
-<img src="./files/home.jpg" alt="" width="48%"> <img src="./files/plantas.jpg" alt="" width="48%"><img src="./files/videos.jpg" alt="" width="48%"> <img src="./files/infos.png" alt="" width="48%">
+<img src="./files/home.jpg" alt="" width="24%"> <img src="./files/plantas.jpg" alt="" width="24%"> <img src="./files/videos.jpg" alt="" width="24%"> <img src="./files/infos.png" alt="" width="24%">
