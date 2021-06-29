@@ -1,5 +1,30 @@
-# Guia de Estilos com Componentes
+<h1 align="center">
+    <img src="./files/logo.jpg" alt="" width="400">
+</h1>
 
-- Criando um guia de estilos para criação de página. Codando com EMMET e BEM.
+<p align="center">
+  :white_check_mark: <a href="https://andreadcsousa.github.io/alura_webpage_emmet/" target="_blank">Veja a página</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  :white_check_mark: <a href="https://www.alura.com.br/curso-online-guia-estilos-paginas-componentes" target="_blank">Conheça o curso</a>
+</p>
 
-![Casa-Verde](https://raw.githubusercontent.com/andreadcsousa/alura_webpage_emmet/main/files/casa-verde.jpg)
+# :computer: Projeto
+ 
+- Idealizador: Alura
+- Projeto: Formação Front-End
+- Lado da força: Front-End
+- Tipo: Guia de estilos com componentes
+- Etapa: Utilizando Emmet e BEM
+
+# :rocket: Tecnologias
+
+Esse projeto foi desenvolvido com:
+
+<img src="./files/html.svg" width="100"><img src="./files/css.svg" width="100">
+
+E com os recursos > Emmet e Block Element Modifier (BEM):
+
+<img src="./files/emmet.svg" alt="logo do emmet" width="100"> <img src="./files/bem.png" alt="logo do bem" width="100">
+
+# :art: Layout
+
+<img src="./files/home.jpg" alt="" width="48%"> <img src="./files/plantas.jpg" alt="" width="48%"><img src="./files/videos.jpg" alt="" width="48%"> <img src="./files/infos.png" alt="" width="48%">
